@@ -1,0 +1,1 @@
+document.myform.action = "http://LG.cignacmb.com/cmc-lg/formCmc2Action_saveForm.action";
